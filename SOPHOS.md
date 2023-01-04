@@ -16,7 +16,7 @@
 - Open the `BIN` folder   
 <img src="SOPHOS_TUTORIAL_4.png" alt="4" width="512px">
 
-- Then run `thorium.exe` executable  
+- Then run the `thorium.exe` executable  
 <img src="SOPHOS_TUTORIAL_5.png" alt="5" width="512px">
 
 - Now you can access any sites previously blocked by Sophos  
