@@ -1,7 +1,7 @@
 # Sophos Bypass
 ### How to bypass Sophos web protection
-<img src="SOPHOS.png" alt="Sophos Block Page" width="512px"></img>
-</br>
+<img src="SOPHOS.png" alt="Sophos Block Page" width="512px">
+
 - First you will need to download [Thorium Browser](https://thorium.rocks)  (A Chromium fork with minor compiler optimizations)  
   #### [⬇️ Download the Portable Zip here](https://github.com/Alex313031/Thorium-Win/releases/download/M109.0.5362.0/Thorium_109.0.5362.0.zip)
 - Wait for the file to finish downloading then open it in File Explorer    
@@ -14,3 +14,5 @@
 <img src="SOPHOS_TUTORIAL_4.png" alt="4" width="512px"></img>
 - Then run `thorium.exe` executable  
 <img src="SOPHOS_TUTORIAL_5.png" alt="5" width="512px"></img>
+- Now you can access any sites previously blocked by Sophos  
+(Note this will not bypass CyberHound web filtering, view the [Cyberhound Bypass](CYBERHOUND.md) page for instructions)
