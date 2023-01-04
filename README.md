@@ -1,5 +1,5 @@
 # School Monorepo
-Some interesting exploits/information I've collected over the years
+Some interesting exploits/information collected over the years
 
 ## Guides
 - How to access Discord on School WiFi
