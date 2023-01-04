@@ -20,3 +20,5 @@ Add your school's root portal domain to these (eg: [https://`portal.school.edu`/
 - List of all schools using Igloo: [/igloo/sites/](/igloo/sites/)
 - PHP libraries: [/igloo/lib/](/igloo/lib/)
 - 403 Forbidden: [/igloo/cslib/](/igloo/cslib/)
+
+✏️[Edit this site on GitHub](https://github.com/zany-face/school)
